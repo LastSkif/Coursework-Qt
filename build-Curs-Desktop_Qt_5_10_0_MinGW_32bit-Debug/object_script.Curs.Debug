@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\addform.o
+./debug\deleteform.o
+./debug\updateform.o
+./debug\cardform.o
+./debug\helpform.o
+./debug\moc_mainwindow.o
+./debug\moc_addform.o
+./debug\moc_deleteform.o
+./debug\moc_updateform.o
+./debug\moc_cardform.o
+./debug\moc_helpform.o
+);

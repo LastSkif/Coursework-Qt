@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\addform.o
+./release\deleteform.o
+./release\updateform.o
+./release\cardform.o
+./release\helpform.o
+./release\moc_mainwindow.o
+./release\moc_addform.o
+./release\moc_deleteform.o
+./release\moc_updateform.o
+./release\moc_cardform.o
+./release\moc_helpform.o
+);
